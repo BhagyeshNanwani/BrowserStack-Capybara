@@ -1,5 +1,7 @@
-Ruby-Capybara
+<h1>Ruby-Capybara</h1>
 Simple Repository Using Selenium WebDriver With Ruby-Capybara
+
+
 STEP 1: Add in your BROWSERSTACK_USERNAME and BROWSERSTACK_ACCESSKEY in the config files both single.config and parallel.config. Alternatively you canexport the environment variables for the Username and Access Key of your BrowserStack account
 
 export BROWSERSTACK_USERNAME= <BROWSERSTACK_USERNAME> export BROWSERSTACK_ACCESS_KEY= <BROWSERSTACK_ACCESSKEY>
